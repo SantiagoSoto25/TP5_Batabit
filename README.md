@@ -1,1 +1,1 @@
-Pagina visible en: https://batatabitpelozo.netlify.app/
+Pagina visible en: https://batabit-soto.netlify.app/
